@@ -1,0 +1,14 @@
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\bin\Debug\cupcake.exe
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\bin\Debug\cupcake.pdb
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\bin\Debug\MetroFramework.Design.dll
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\bin\Debug\MetroFramework.dll
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\bin\Debug\MetroFramework.Fonts.dll
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\bin\Debug\MetroFramework.Design.pdb
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\bin\Debug\MetroFramework.Fonts.pdb
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\obj\Debug\cupcake.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\obj\Debug\cupcake.cupcake.resources
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\obj\Debug\cupcake.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\obj\Debug\cupcake.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\obj\Debug\cupcake.exe
+c:\users\acer\documents\visual studio 2015\Projects\cupcake\cupcake\obj\Debug\cupcake.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\cupcake\cupcake\obj\Debug\cupcake.fullscreen.resources
